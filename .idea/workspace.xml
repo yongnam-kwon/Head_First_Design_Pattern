@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bda0b5cc-ed07-4bc3-900a-7753c12c44c2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/01strategy/01strategy.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01strategy/01use_inheritance/src/Duck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01strategy/01use_inheritance/src/WoodDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01strategy/03strategy_pattern/03strategy_pattern.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02observer/02observer.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03decorator/03decorator.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03decorator/src/01bad_case03/src/Beverage.java" beforeDir="false" afterPath="$PROJECT_DIR$/03decorator/src/01bad_case03/src/Beverage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPattern_1_3.md" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPattern_1_3.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,12 +37,12 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="11" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/01strategy/src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.WeatherStation">
+  <component name="RunManager" selected="Application.Main (3)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="02use_interface" />
@@ -52,9 +50,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="01use_inheritance" />
+      <module name="01bad_case03" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="02decorator_pattern" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -75,10 +80,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.WeatherStation" />
         <item itemvalue="Application.MiniDuckSimulator" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -103,5 +109,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
