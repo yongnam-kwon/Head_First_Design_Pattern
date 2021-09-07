@@ -4,14 +4,19 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/02observer/01bad_case/01bad_case.iml" filepath="$PROJECT_DIR$/02observer/01bad_case/01bad_case.iml" />
       <module fileurl="file://$PROJECT_DIR$/03decorator/src/01bad_case03/01bad_case03.iml" filepath="$PROJECT_DIR$/03decorator/src/01bad_case03/01bad_case03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10state/src/01initial_state/01initial_state.iml" filepath="$PROJECT_DIR$/10state/src/01initial_state/01initial_state.iml" />
       <module fileurl="file://$PROJECT_DIR$/01strategy/01strategy.iml" filepath="$PROJECT_DIR$/01strategy/01strategy.iml" />
       <module fileurl="file://$PROJECT_DIR$/01strategy/01use_inheritance/01use_inheritance.iml" filepath="$PROJECT_DIR$/01strategy/01use_inheritance/01use_inheritance.iml" />
       <module fileurl="file://$PROJECT_DIR$/03decorator/src/02decorator_pattern/02decorator_pattern.iml" filepath="$PROJECT_DIR$/03decorator/src/02decorator_pattern/02decorator_pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/02observer/02observer.iml" filepath="$PROJECT_DIR$/02observer/02observer.iml" />
       <module fileurl="file://$PROJECT_DIR$/02observer/02observer_pattern/02observer_pattern.iml" filepath="$PROJECT_DIR$/02observer/02observer_pattern/02observer_pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10state/src/02state_interface/02state_interface.iml" filepath="$PROJECT_DIR$/10state/src/02state_interface/02state_interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/01strategy/02use_interface/02use_interface.iml" filepath="$PROJECT_DIR$/01strategy/02use_interface/02use_interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/03decorator/03decorator.iml" filepath="$PROJECT_DIR$/03decorator/03decorator.iml" />
       <module fileurl="file://$PROJECT_DIR$/01strategy/03strategy_pattern/03strategy_pattern.iml" filepath="$PROJECT_DIR$/01strategy/03strategy_pattern/03strategy_pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04factory/04factory.iml" filepath="$PROJECT_DIR$/04factory/04factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10state/10state.iml" filepath="$PROJECT_DIR$/10state/10state.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Head_First_Design_Pattern.iml" filepath="$PROJECT_DIR$/Head_First_Design_Pattern.iml" />
     </modules>
   </component>
 </project>

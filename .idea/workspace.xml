@@ -7,8 +7,6 @@
     <list default="true" id="bda0b5cc-ed07-4bc3-900a-7753c12c44c2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03decorator/src/01bad_case03/src/Beverage.java" beforeDir="false" afterPath="$PROJECT_DIR$/03decorator/src/01bad_case03/src/Beverage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPattern_1_3.md" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPattern_1_3.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +24,17 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/03decorator/src/02decorator_pattern/src/Beverage.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/03decorator/src/02decorator_pattern/src/CondimentDecorator.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/03decorator/src/02decorator_pattern/src/Espresso.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/03decorator/src/02decorator_pattern/src/HouseBlend.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/03decorator/src/02decorator_pattern/src/Mocha.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/03decorator/src/02decorator_pattern/src/GreenTeaOption.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/03decorator/src/02decorator_pattern/src/Frappuccino.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/03decorator/src/02decorator_pattern/src/Whip.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/03decorator/src/02decorator_pattern/src/Main.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProjectId" id="1viuLzODbwu0xwPFHATTrsJhJOl" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -42,10 +51,17 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.Main (3)">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="02use_interface" />
+  <component name="RunManager" selected="Application.GumballMachineTestDrive (1)">
+    <configuration name="GumballMachineTestDrive (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GumballMachineTestDrive" />
+      <module name="02state_interface" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GumballMachineTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GumballMachineTestDrive" />
+      <module name="01initial_state" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -64,13 +80,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MiniDuckSimulator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MiniDuckSimulator" />
-      <module name="03strategy_pattern" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="WeatherStation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="WeatherStation" />
       <module name="02observer_pattern" />
@@ -80,11 +89,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GumballMachineTestDrive (1)" />
+        <item itemvalue="Application.GumballMachineTestDrive" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.WeatherStation" />
-        <item itemvalue="Application.MiniDuckSimulator" />
-        <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
   </component>
